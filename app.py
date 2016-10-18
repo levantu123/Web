@@ -25,3 +25,4 @@ app.mainloop()
 
 
 # i put it in git 
+# who can modify it
